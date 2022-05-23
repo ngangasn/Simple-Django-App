@@ -5,4 +5,6 @@ UploadZip.zip
 .conf
 .pem
 .perm
+.sqlite3
+db.sqlite3
 
